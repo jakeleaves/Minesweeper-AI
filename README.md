@@ -3,7 +3,7 @@
 		Aniya Alston, aalston9@gatech.edu 
 		Marie-Emmanuela Newman, mnewman38@gatech.edu 
     
-		DATE of Submission: 5/29/2020
+		DATE of Submission: 5/29/2021
 		
 		minesweeperAI1.py - strategic randomization algorithm
 		minesweeperAI2.py - probability algorithm
